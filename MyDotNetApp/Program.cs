@@ -11,6 +11,7 @@ namespace MyDotNetApp
 {
     public class Program
     {
+        //This is testing project
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
